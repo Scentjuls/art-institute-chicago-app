@@ -1,0 +1,21 @@
+.details-container {
+  padding: 20px;
+}
+
+.artwork-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.artwork-description {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.info-item {
+  font-size: 14px;
+}
+
+span {
+    font-weight: bold;
+}
